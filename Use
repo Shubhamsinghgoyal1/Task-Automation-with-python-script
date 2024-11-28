@@ -1,0 +1,8 @@
+Goal: Automatically organize files in a directory into subfolders based on their file types (e.g., all .jpg files into an "Images" folder, .txt files into a "TextFiles" folder).
+
+Steps to Set Up:
+
+1. Create a directory with files of different types (e.g., .jpg, .txt, .pdf, etc.).
+
+
+2. Write the Python script to automate the file organization.
